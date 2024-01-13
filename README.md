@@ -36,19 +36,33 @@ RecipeYum is an innovative iOS app crafted for culinary enthusiasts and home coo
 
 ## 📸 **App Screenshots**
 
-<div align="center">
-<table>
-  <tr>
-  <img src="Resources/register.png" alt="Register" width="200"/>
-  <img src="Resources/login.png" alt="Login" width="200"/>
-  <img src="Resources/profile.png" alt="Profile" width="200"/>
-  <img src="Resources/home.png" alt="Home" width="200"/>
-  <img src="Resources/myRecipes.png" alt="Recipe" width="200"/>
-  <img src="Resources/detail.png" alt="Detail" width="200"/>
-</p>
+<style>
+  .screenshot-table {
+    width: 100%;
+    border-spacing: 10px;
+  }
 
-  </tr>
-</table>
+  .screenshot-table img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+
+<div align="center">
+  <table class="screenshot-table">
+    <tr>
+      <td><img src="Resources/register.png" alt="Register"></td>
+      <td><img src="Resources/login.png" alt="Login"></td>
+      <td><img src="Resources/profile.png" alt="Profile"></td>
+    </tr>
+    <tr>
+      <td><img src="Resources/home.png" alt="Home"></td>
+      <td><img src="Resources/myRecipes.png" alt="Recipe"></td>
+      <td><img src="Resources/detail.png" alt="Detail"></td>
+    </tr>
+  </table>
 </div>
 
 ---
