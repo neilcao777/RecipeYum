@@ -55,7 +55,7 @@ RecipeYum is an innovative iOS app crafted for culinary enthusiasts and home coo
 
 ## 🚀 **Getting Started**
 
-1. **Download**: Find RecipeYum on the iOS App Store.
+1. **Download**: Find RecipeYum on the iOS App Store. (Currently not published yet)
 2. **Sign Up / Log In**: Create a new account or log into an existing one.
 3. **Dive In**: Start exploring our extensive database of recipes.
 4. **Customize**: Set up your profile and favorites for a personalized experience.
